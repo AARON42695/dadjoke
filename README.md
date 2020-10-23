@@ -14,7 +14,7 @@
 1. pipenv is used to create the virtual environment of the project. Please use command **pip3 install pipenv** to install pipenv on your machine. 
 2. Please create a project directory (such as dadjock) and run **pipenv install** in the project directory to setup the pipenv environment.
 3. Run **pipenv shell** to launch the virtual environment in the directory. (Type **exit** if you want to go back to the regular version of the terminal.)
-4. Install dependencies in the pipenv environment:
+4. Install dependencies in the pipenv environment using the commands below:
    - **pipenv install flask**
    - **pipenv install requests**
    - **pipenv install nltk**
