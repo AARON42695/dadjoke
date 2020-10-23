@@ -21,3 +21,8 @@
    - **pipenv install pandas**
    - **pipenv install numpy**
 5. Run **flask run** in the terminal and go to **http://127.0.0.1:5000/**. The resulting term counting table will be shown up there. 
+
+
+### Screenshots of frontend and backend
+![https://raw.githubusercontent.com/AARON42695/dadjoke/main/pic/frontend.png]
+![https://raw.githubusercontent.com/AARON42695/dadjoke/main/pic/backend.png]
