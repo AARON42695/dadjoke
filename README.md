@@ -24,5 +24,5 @@
 
 
 ### Screenshots of frontend and backend
-![https://raw.githubusercontent.com/AARON42695/dadjoke/main/pic/frontend.png]
-![https://raw.githubusercontent.com/AARON42695/dadjoke/main/pic/backend.png]
+![](https://raw.githubusercontent.com/AARON42695/dadjoke/main/pic/frontend.png)
+![](https://raw.githubusercontent.com/AARON42695/dadjoke/main/pic/backend.png)
